@@ -13,9 +13,14 @@ const PROJECTS = [
         type: 'coding',
         title: 'Samre',
         desc: 'Arsitektur eksperimental untuk agen AI otonom dengan kebutuhan internal, pengambilan keputusan proaktif, dan pembelajaran berbasis reward.',
-        url: 'https://github.com/Alshihaf/My-AI',
+        url: 'https://github.com/Alshihaf/Treat',
         tags: ['Python', 'JSON']
     },
+    {
+        type: 'coding',
+        title: 'Treat',
+        desc: 'Arsitektur eksperimen tal untuk sebuah media sosial dengan konsep gabungan antara Discord, Teelgram, dan Reddit ke dalam 1 aplikasi.',
+        tags: ['Android', 'Web']
 
     // === WORLDBUILDING ===
     {
