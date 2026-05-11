@@ -1,5 +1,4 @@
 // --- DATABASE KREATIF ---
-
 const PROJECTS = [
     // === CODING ===
     {
@@ -19,22 +18,23 @@ const PROJECTS = [
     {
         type: 'coding',
         title: 'Treat',
-        desc: 'Arsitektur eksperimen tal untuk sebuah media sosial dengan konsep gabungan antara Discord, Teelgram, dan Reddit ke dalam 1 aplikasi.',
-        tags: ['Android', 'Web']
-
+        desc: 'Arsitektur eksperimental untuk media sosial yang menggabungkan konsep Discord, Telegram, dan Reddit ke dalam satu aplikasi.',
+        url: 'https://github.com/Alshihaf/Treat',
+        tags: ['Android', 'Web', 'Kotlin', 'Firebase']
+    },
     // === WORLDBUILDING ===
     {
         type: 'worldbuilding',
         title: 'FBCES',
         desc: 'Antologi horor psikologis yang berpusat pada biro ilmiah rahasia dan konsekuensi mengerikan dari obsesi manusia.',
         url: 'https://drive.google.com/drive/folders/11_UXLTUDpj4N6QmTmBwm-bHf4V6_GTiP',
-        tags: ['horor', 'psikologis']
+        tags: ['horor', 'psikologis', 'thriller']
     },
     {
         type: 'worldbuilding',
         title: 'Ray-Mond',
         desc: 'Petualangan aksi fiksi ilmiah penuh warna, humor, dan hati, yang menyembunyikan lapisan tragedi di balik topeng kepahlawanan remaja.',
         url: 'https://drive.google.com/drive/folders/1Es4onE5W8zWoqOZxxBvdTk38w4GYStRx',
-        tags: ['fiksi-ilmiah', 'petualangan']
+        tags: ['fiksi ilmiah', 'petualangan', 'aksi']
     }
 ];
