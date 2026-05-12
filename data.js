@@ -5,7 +5,7 @@ const PROJECTS = [
         type: 'coding',
         title: 'Beezy Vortex Studio',
         desc: 'Proyek Android dengan rendering Vulkan untuk eksperimen grafis real-time.',
-        url: 'https://github.com/Alshihaf/Beezy-Vortex-Studio-',
+        url: 'https://github.com/Alshihaf/Beezy-Vortex-Studio',
         tags: ['Android', 'Vulkan']
     },
     {
